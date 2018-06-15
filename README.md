@@ -6,8 +6,8 @@
 Задание 3
 ![alt text](https://github.com/ElizavetaDanilova/hw6/blob/master/%D1%84%D0%BB%D1%8D%D1%82.jpg)
 ЧАСТЬ 2
-
 Задание 4
+
 ![alt text](https://github.com/ElizavetaDanilova/hw6/blob/master/3%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0.jpg)
 
 Задание 5
